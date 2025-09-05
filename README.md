@@ -1,6 +1,6 @@
 # Machine_Learning_in_Robotics_course2025
 
-
+this course
 
 ## Getting started
 
