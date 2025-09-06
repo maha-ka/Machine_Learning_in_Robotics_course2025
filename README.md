@@ -13,7 +13,7 @@ This repository contains solutions for a machine learning coursework involving s
 -  Autoencoders – Image reconstruction, fusion, and denoising.
 
 ## **Dataset**
-[link](url)
+[link](https://disk.yandex.ru/d/azhOrDCv1P3rDw)
 
 - Road scene images (colored) with corresponding binary masks.
 
