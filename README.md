@@ -4,7 +4,7 @@ This repository contains solutions for a machine learning coursework involving s
 
 ## **Tasks**
 
-- [ ] Image Classification – Custom CNN and pre-trained models (transfer learning).
+-  Image Classification – Custom CNN and pre-trained models (transfer learning).
 
 - [ ] Image Segmentation – Mask prediction using IoU as a performance metric.
 
