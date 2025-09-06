@@ -37,6 +37,7 @@ This repository contains solutions for a machine learning coursework involving s
 **Autoencoders**
 
 - Model with 64 channels: Loss < 0.01; better detail preservation after denoising.
+
 - Model with 32 channels: faster but lower reconstruction quality.
 
 Full implementation and results are available in the notebooks.
