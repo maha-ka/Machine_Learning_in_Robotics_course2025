@@ -1,6 +1,7 @@
 # Machine_Learning_in_Robotics_course2025
 
 This repository contains solutions for a machine learning coursework involving supervised and unsupervised techniques applied to computer vision tasks. All implementations are in Python using Jupyter Notebooks.
+
 **Tasks**
 •	Image Classification – Custom CNN and pre-trained models (transfer learning).
 •	Image Segmentation – Mask prediction using IoU as a performance metric.
