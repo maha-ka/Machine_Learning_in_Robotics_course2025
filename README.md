@@ -6,17 +6,20 @@ This repository contains solutions for a machine learning coursework involving s
 
 -  Image Classification – Custom CNN and pre-trained models (transfer learning).
 
-- [ ] Image Segmentation – Mask prediction using IoU as a performance metric.
+-  Image Segmentation – Mask prediction using IoU as a performance metric.
 
-- [ ] Image Clustering – Unsupervised grouping of images.
+-  Image Clustering – Unsupervised grouping of images.
 
-- [ ] Autoencoders – Image reconstruction, fusion, and denoising.
+-  Autoencoders – Image reconstruction, fusion, and denoising.
 
 ## **Dataset**
 [link](url)
-•	Road scene images (colored) with corresponding binary masks.
-•	Images may contain road signs or crosswalks.
-•	Applied data normalization and data augmentation to improve training.
+
+- Road scene images (colored) with corresponding binary masks.
+
+- Images may contain road signs or crosswalks.
+
+- [ ] Applied data normalization and data augmentation to improve training.
 ## **Key Results**
 
 **Classification**
