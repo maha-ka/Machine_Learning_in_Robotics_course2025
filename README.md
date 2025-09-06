@@ -19,21 +19,25 @@ This repository contains solutions for a machine learning coursework involving s
 
 - Images may contain road signs or crosswalks.
 
-- [ ] Applied data normalization and data augmentation to improve training.
+- Applied data normalization and data augmentation to improve training.
 ## **Key Results**
 
 **Classification**
 
-•	Custom CNN: 91.5% validation accuracy.
-•	With data augmentation: 96.28% validation accuracy.
-•	Pre-trained model (transfer learning): 95.03% validation accuracy.
+
+- Custom CNN: 91.5% validation accuracy.
+
+- With data augmentation: 96.28% validation accuracy.
+
+- Pre-trained model (transfer learning): 95.03% validation accuracy.
 
 **Segmentation**
-•	IoU score: 0.679 average.
+- IoU score: 0.679 average.
 
 **Autoencoders**
-•	Model with 64 channels: Loss < 0.01; better detail preservation after denoising.
-•	Model with 32 channels: Loss; faster but lower reconstruction quality.
+
+- Model with 64 channels: Loss < 0.01; better detail preservation after denoising.
+- Model with 32 channels: faster but lower reconstruction quality.
 
 Full implementation and results are available in the notebooks.
 
